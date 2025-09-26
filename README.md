@@ -6,6 +6,7 @@ FODUBU.com – Mainnet
 Welcomes **buyers, sellers, and service providers** enabling **secure Pi payments** for goods, and services.
 Also primary welcomes agricutural projects for digitalise them across Burundi ,region .
 In future will expand branches globally.
+
 #Features
 * 🔑 **Pi Network Mainnet Payments** – secure checkout using Pi SDK  
 * 🛒 ** FODUBU GlobalTrade** – supports  one-time purchases, Products and services  
