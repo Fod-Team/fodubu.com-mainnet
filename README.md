@@ -1,5 +1,5 @@
 # fodubu.com-mainnet
-Mainnet-ready codebase for fodubu.com Globaltrade Marketplace, a Pi-powered e-commerce platform.”
+Mainnet-ready codebase for fodubu.com Globaltrade Marketplace, a Pi-powered digital commerce platform.”
 FODUBU.com – Mainnet
 
 **FODUBU Globaltrade Marketplace** is a production-ready e-commerce platform built for the **Pi Network Mainnet**.  
