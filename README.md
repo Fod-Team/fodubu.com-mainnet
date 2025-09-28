@@ -16,7 +16,7 @@ In future will expand branches globally.
 * 🌐 **Cloud-hosted frontend** with backend microservices (Dockerized)
 
 ## 🏗️ Tech Stack
-* **Frontend:** java scipt (optimized for Pi Browser)  
+* **Frontend:**javascript (optimized for Pi Browser)  
 * **Backend:** PHP, SQL (database structure & queries), CSS, REST API  
 * **Database:** MySQL / Pi-based payment listener  
 * **Deployment:**DigitalOcean Droplet(frontend+backend)  
