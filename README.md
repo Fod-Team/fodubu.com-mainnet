@@ -1,6 +1,5 @@
 #https://api.fodubu.com-Endpoint
 Mainnet-ready codebase for fodubu.com Globaltrade Marketplace, a Pi-powered digital commerce platform.”
-FODUBU.com – Mainnet
 
 **FODUBU-Global Powering Trade Marketplace** is a production-ready e-commerce platform built for the **Pi Network Mainnet**.  
 Welcomes **buyers, sellers, and service providers** enabling **secure Pi payments** for goods, and services.
