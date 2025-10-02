@@ -1,4 +1,4 @@
-#https://api.fodubu.com-Endpoint mainnet
+#https://api.fodubu.com-Endpoint
 Mainnet-ready codebase for fodubu.com Globaltrade Marketplace, a Pi-powered digital commerce platform.”
 FODUBU.com – Mainnet
 
