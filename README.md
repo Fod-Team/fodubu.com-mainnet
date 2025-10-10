@@ -1,5 +1,6 @@
-#https://api.fodubu.com-Endpoint
-Mainnet-ready codebase for fodubu.com Globaltrade Marketplace, a Pi-powered digital commerce platform.”
+Fodubu-api
+#https://api.fodubu.com
+Mainnet-ready apicodebase for fodubu.com Globaltrade Marketplace, a Pi-powered digital commerce platform.”
 
 **FODUBU-Global Powering Trade Marketplace** is a production-ready e-commerce platform built for the **Pi Network Mainnet**.  
 Welcomes **buyers, sellers, and service providers** enabling **secure Pi payments** for goods, and services.
@@ -16,7 +17,7 @@ In future will expand branches globally.
 
 ## 🏗️ Tech Stack
 * **Frontend:**javascript (optimized for Pi Browser)  
-* **Backend:** PHP, SQL (database structure & queries), CSS, REST API  
+* **Backend:** node+express(database structure & queries), js,REST API  
 * **Database:** MySQL / Pi-based payment listener  
 * **Deployment:**Cloudflare pages(frontend)& DigitalOcean Droplet(backend)  
 * **Containerization:** Docker & Docker-Compose  
