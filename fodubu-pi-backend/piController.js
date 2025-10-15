@@ -9,15 +9,11 @@ controllers/
 import { selectNetwork } from './utils/piClient.js';
 console.log(selectNetwork());
 
-
-package.json
 const { selectNetwork, piFetch } = await import('./utils/piClient.js');
 
 console.log(selectNetwork());
 
 const piClient = await import('./utils/piClient.js');
-
-server.js
 
 async function testPiClient() {
   const { selectNetwork, piFetch } = await import('./utils/piClient.js');
@@ -41,10 +37,6 @@ async function testPiClient() {
 }
 
 testPiClient();
-
-
-
-—----
 
 async function testPiClient() {
   const { selectNetwork, piFetch } = await import('./utils/piClient.js');
