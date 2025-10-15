@@ -2,7 +2,7 @@ FODUBU – Force Du Développement Ubuntu du Burundi
 
 🌟 Vision
 
-FODUBU is designed to empower the Burundian community through dynamic blockchain integration, leveraging Pi Network for economic engagement. Our platform aims for a fully dynamic, future-ready website with motivational visuals and high-standard features.
+FODUBU Digital commerce designed to empower the Burundian community through agricutural,businessess ,industrial and dynamic blockchain integration, leveraging Pi Network for economic engagement. Our platform aims for a fully dynamic, future-ready website with motivational visuals and high-standard features.
 
 
 -
