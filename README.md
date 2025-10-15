@@ -19,6 +19,6 @@ In future will expand branches globally.
 * **Frontend:**javascript (optimized for Pi Browser)  
 * **Backend:** node+express(database structure & queries), js,REST API  
 * **Database:** MySQL / Pi-based payment listener  
-* **Deployment:**Cloudflare pages(frontend)& DigitalOcean Droplet(backend)  
+* **Deployment:**Cloudflare pages(frontend,react)& DigitalOcean Droplet(backend)  
 * **Containerization:** Docker & Docker-Compose  
 * **License:** MIT  
