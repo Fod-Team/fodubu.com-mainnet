@@ -1,0 +1,22 @@
+Node.js dependencies
+node_modules/
+piController.js
+Logs
+logs/ .log npm-debug.log yarn-debug.log* yarn-error.log* pnpm-debug.log*
+Environment files
+.env .env.local .env.production .env.development
+Build outputs
+dist/ build/ .next/ out/
+Temporary files
+*.tmp *.swp *.swo .DS_Store
+PM2 files
+pids *.pid *.seed
+IDE/editor settings
+.vscode/ .idea/ *.sublime-workspace *.sublime-project
+Coverage
+test/coverage coverage/
+Logs and cache
+.cache/ .npm/
+Misc
+*.tgz
+

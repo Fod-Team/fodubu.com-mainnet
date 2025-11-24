@@ -1,0 +1,14 @@
+FODUBU integrates Pi Network login, Transactions, and Mainnet Utility.
+Description
+/auth/pi-login
+Handles Pi authentication
+/api/earnings
+Fetches user earnings
+/pay/pi-transaction
+Submits Pi transactions
+/verify/frontend
+Communicates with React/Vue frontend
+For deeper logic, see:
+/controllers, /routes, /middlewares
+🌍 Vision
+FODUBU is built for economic empowerment, community earning, and Pi Network integration. This repository is designed to grow into a full-scale platform with dynamic features.
